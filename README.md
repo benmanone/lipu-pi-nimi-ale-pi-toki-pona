@@ -1,6 +1,6 @@
 # ni li seme?
 
-this is a toki pona dictionary where you can search in either toki pona or english.
+this is a toki pona dictionary where you can search in either toki pona or english. you can use it [here](https://tokiponadictionary.herokuapp.com).
 
 # mi ken pali pona e seme ?
 
@@ -8,4 +8,7 @@ currently the definitions of words are hopefully accurate (they are all taken fr
 
 # mi kepeken e ni nasin seme?
 
-to use the dictionary, download the repository and `cd` into it using the terminal. if you don't have [npm](https://nodejs.org/en/download/) then install it. you also need to install rollup, which you can do easily via the command `npm install --save-dev svelte rollup-plugin-svelte`. when you're done, run the commands `npm init` and `npm run dev`. if you navigate to <http://localhost:5000> in your browser you should now be able to use the dictionary. i will try to get a website running soon but right now you have to run it manually.
+to test the dictionary locally, download the repository and `cd` into it using the terminal. if you don't have [npm](https://nodejs.org/en/download/) then install it. you also need to install rollup, which you can do easily via the command `npm install --save-dev svelte rollup-plugin-svelte`. when you're done, run the commands `npm init` and `npm run dev`. if you navigate to <http://localhost:5000> in your browser you should now be able to use the dictionary. 
+
+
+you can view the dictionary at https://tokiponadictionary.herokuapp.com.
