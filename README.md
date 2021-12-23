@@ -8,4 +8,4 @@ currently the definitions of words are hopefully accurate (they are all taken fr
 
 # mi kepeken e ni nasin seme?
 
-to use the dictionary, download the repository and `cd` into it using the terminal. if you don't have [npm](https://nodejs.org/en/download/) then install it. then run the commands `npm init` and `npm run dev`. if you navigate to <http://localhost:5000> in your browser you should now be able to use the dictionary. i will try to get a website running soon but right now you have to run it manually.
+to use the dictionary, download the repository and `cd` into it using the terminal. if you don't have [npm](https://nodejs.org/en/download/) then install it. you also need to install rollup, which you can do easily via the command `npm install --save-dev svelte rollup-plugin-svelte`. when you're done, run the commands `npm init` and `npm run dev`. if you navigate to <http://localhost:5000> in your browser you should now be able to use the dictionary. i will try to get a website running soon but right now you have to run it manually.
