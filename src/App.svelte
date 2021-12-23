@@ -9,7 +9,7 @@
 				{key: "alasa", val: "hunt, forage"},
 				{key: "ale", val: "everything, all, countless, bountiful, abundant, life, universe, 100"},
 				{key: "ali", val: "everything, all, countless, bountiful, abundant, life, universe, 100"},
-				{key: "anpa", val: "bow, downward, humble, lowly, dependent"},
+				{key: "anpa", val: "downward, humble, lowly, dependent, defeat"},
 				{key: "ante", val: "change, altered, other, different"},
 				{key: "anu", val: "or"},
 				{key: "awen", val: "endure, keep, protect, safe, wait, stay, continue"},
